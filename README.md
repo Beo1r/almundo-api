@@ -1,4 +1,4 @@
-## Technical exam almundo.com -- API REST + Angular
+## Technical Exam almundo.com -- API REST + Angular
 
 Install dependencies in backend and frontend folders:
 
