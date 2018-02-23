@@ -1,21 +1,23 @@
-## Examen almundo API REST + Angular
+## Technical exam almundo.com -- API REST + Angular
 
-Instalar dependencias en backend y frontend
+Install dependencies in backend and frontend folders:
 
 ```bash
 npm install
 ```
 
-Iniciar el servidor
+Initialize server:
 
 ```bash
 cd backend
 node server.js
 ```
 
-Generar y servir el proyecto, el mismo se puede acceder desde http://localhost:4200/
+Generate and serve proyect:
 
 ```bash
 cd frontend
 ng serve
 ```
+
+Access it from http://localhost:4200/
