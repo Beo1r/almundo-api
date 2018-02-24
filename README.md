@@ -13,7 +13,7 @@ cd backend
 node server.js
 ```
 
-Generate and serve proyect:
+Generate and serve project:
 
 ```bash
 cd frontend
